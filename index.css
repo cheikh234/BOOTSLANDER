@@ -1,0 +1,344 @@
+.couleur{
+    background-color: rgb(34, 1, 125);
+    color: white;
+}
+
+
+
+.text-decoration-underline{
+color: aqua !important;
+}
+.lo{
+    margin-top: 110px;
+}
+.da{
+    background-color: rgb(34, 1, 125);
+    margin-top: 56px;
+    height: 110vh;
+    background-image: url(photo/hero-bg-2\ \(1\).jpg);
+    background-size: cover;
+    
+}
+.tr{
+    font-size: 47px;
+}
+
+.changercoule{
+    background-color:  rgb(34, 1, 125);
+    margin-top: 56px;
+    height: 110vh;
+     opacity: 0.93;  
+   
+}
+
+.uhu{
+    position: relative;
+    left: 150px;
+}
+.lim{
+    color: rgb(229, 115, 237);
+}
+.lpp{
+    color: rgb(216, 159, 28);
+}
+
+.lppp{
+    color: rgb(12, 195, 146);
+}
+.nave1:hover{
+    border-bottom: 2px solid rgb(12, 195, 146);
+}
+
+.lpppe{
+    background-color: rgb(9, 193, 144);
+}
+
+.boulfou{
+    background-color: rgb(8, 179, 133);
+    width: 150px;
+    height: 40px;
+    border: none;
+}
+
+.ariere{
+   padding-top: -100px;
+}
+
+.jkj{
+    color: rgb(149, 102, 27);
+}
+
+.jjk{
+    color: rgb(149, 27, 55);
+}
+
+.nk{
+    color: rgb(194, 121, 5);
+}
+.plp{
+    color: rgb(86, 4, 162);
+}
+.cree{
+    width: 260px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.cercle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: rgb(238, 246, 246);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(25, 223, 147) !important;
+}
+
+.cercle:hover{
+   
+    background-color: rgb(25, 223, 147);
+   
+    color: white !important;
+}
+
+/* *{
+    border: 1px red solid;
+}  */
+
+.reg{
+
+    width: 250px;
+    height:55px;
+    border: 1px rgb(200, 200, 199) solid;
+    
+
+} 
+
+
+.tyy{
+    border: 1px rgb(88, 88, 87) solid;
+}
+
+
+
+
+.weur{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 36px;
+    color: rgb(4, 195, 134);
+    /* border: 1px slategrey solid; */
+}
+
+.yeeg{
+    position: relative;
+    bottom: 30px;
+}
+
+.popp{
+    background-color: azure;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trai{
+    width: 80px;
+    height: 1px;
+    background-color: rgb(29, 171, 145);
+}
+
+
+.traei{
+    width: 60px;
+    height: 2px;
+    background-color: rgb(151, 155, 155);
+}
+
+.ju{
+    margin-top: 170px;
+}
+.card{
+    border: 1px rgb(255, 253, 253) solid;
+    
+}
+
+.bg-secondary{
+    background-color: azure !important;
+}
+
+.buti{
+    background-color: rgb(26, 193, 129);
+    color: white;
+}
+
+.cserc{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    /* border: 1px solid rgb(130, 14, 14); */
+    background-color: rgb(222, 243, 235);
+    color: rgb(20, 200, 131);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mov{
+    color: rgb(34, 1, 125);
+}
+.cserc:hover{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    /* border: 1px solid rgb(130, 14, 14); */
+    background-color: rgb(11, 177, 119);
+    color: rgb(244, 249, 247);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foot{
+    height: 70vh;
+    background-color: rgb(34, 1, 125);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fondto{
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),  url(photo/testimonials-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* .dd{
+    width: 312px;
+    height: 90px;
+    background-color: white;
+    position: relative;
+    left: 23px;
+    margin-top: -37px;
+} */
+
+/* .JK{
+    margin-top: -20px;
+} */
+
+.myg{
+    border-bottom: 4px rgb(11, 207, 119) solid;
+}
+.TERBI{
+    color: rgb(246, 253, 253);
+    opacity: 0.7;
+}
+
+
+@keyframes flotter {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-10px); }
+    100% { transform: translateY(0); }
+  }
+  
+  .frd  {
+    animation: flotter 2.7s ease-in-out infinite;
+  }
+
+
+
+
+
+
+
+
+@media (max-width: 768px){
+
+/* 
+     .lo{
+        left: -10px;
+    }  */
+
+    .da{
+        /* background-color:  rgb(65, 1, 125); */
+        /* margin-top: 56px; */
+        height: 124vh;
+    }
+
+    .changercoule{
+        background-color:  rgb(34, 1, 125);
+        margin-top: 56px;
+        height: 124vh;
+         opacity: 0.96;  
+       
+    }
+
+    .DAM{
+        margin-top: -80px;
+    }
+    .frd img{
+
+        margin: 10px auto;
+        
+
+    }
+
+    .cree{
+
+        margin: 10px auto;
+        width: 100%;
+      
+    }
+
+
+    .reg{
+
+        margin: 10px auto;
+        width: 100%;
+
+        
+        
+    
+    } 
+
+
+    .popp{
+        background-color: azure;
+        height: 84vh;
+       
+    }
+
+
+    .ju{
+        margin-top: 60px;
+    }
+
+
+    .foot{
+        height: 150vh;
+        background-color:  rgb(34, 1, 125);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .tr{
+        font-size: 27px;
+    }
+
+
+    
+    
+}
